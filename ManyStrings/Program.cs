@@ -69,6 +69,13 @@ namespace ManyStrings
             Console.WriteLine(" ");
             
             Console.WriteLine(stupid);
+
+            Console.WriteLine("\n-\n");
+
+            // Exercise 6's variables
+
+            double xx = 1.23456;
+            int ii = 19;
         }
     }
 }
